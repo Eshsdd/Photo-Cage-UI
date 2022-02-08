@@ -1,0 +1,10 @@
+﻿Thola Nathandem,rogue,10,50,50,fire
+Mara Pashar,rogue,12,60,20,0
+Olga Tallstag,,warrior,9,80,30,130
+Ramas Helderrogue,30,80,70,0.7
+Lureene Ramondo,palidin,100,2000,100,50000
+Miri Basha,warrior,1,500000000000000000000000000000,1,10
+Katernin Pisacar,warior,40,100,4,dark
+Sudeiman Kung,rogue,39,60
+Jiang Evenwood,rogue,10,10,27,0.3,
+Jia Rein,rogue,11,60,79,1
